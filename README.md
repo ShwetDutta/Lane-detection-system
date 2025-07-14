@@ -17,9 +17,9 @@ This project is a beginner-friendly implementation of a real-time lane detection
 Lane-Detection/
 │
 ├── lane_video.mp4 # Sample input video
-├── lane_detection.py # Main Python script
+├── final project.py # Main Python script
 ├── README.md # Project documentation
-└── requirements.txt # (Optional) Python dependencies
+
 
 
 ---
